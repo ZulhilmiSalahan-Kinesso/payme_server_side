@@ -22,6 +22,14 @@ session_start();
                                 <img style="width:30%" src="http://52.220.44.181/~izzad/ServerSidePayMe/logo.png" style="width:100%; max-width:300px;">
                             </td>
                         </tr>
+                        <tr>
+                        <td>
+                        From
+                        </td>
+                        <td>
+                        To
+                        </td>
+                        </tr>
                     </table>
                 </td>
             </tr>
