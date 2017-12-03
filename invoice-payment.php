@@ -19,22 +19,37 @@ session_start();
                     <table>
                         <tr>
                             <td class="title" colspan="2">
-                                <img style="width:30%" src="http://52.220.44.181/~izzad/ServerSidePayMe/logo.png" style="width:100%; max-width:300px;">
+                                <img style="width:50%" src="http://52.220.44.181/~izzad/ServerSidePayMe/logo.png" style="width:100%; max-width:300px;">
+                            </td>
+                            <td colspan="1" >
+                                <h1 class="title" style="text-align:right">INVOICE</h1>
+                                <table border="0" style="text-align:left; padding-bottom:0px">
+                                <tr class="heading">
+                                    <td style="text-align:left; padding-bottom:0px">
+                                    Invoice No : 
+                                    </td>
+                                    <td style="text-align:left; padding-bottom:0px">
+                                    00001
+                                    </td>
+                                </tr>
+                                <tr class="heading"><td style="text-align:left; padding-bottom:0px">Invoice Date :</td><td style="text-align:left; padding-bottom:0px">1 January 2018</td></tr>
+                                <tr class="heading"><td style="text-align:left; padding-bottom:0px">Invoice Due Date :</td><td style="text-align:left; padding-bottom:0px">15 January 2018</td></tr>
+                                </table> 
                             </td>
                         </tr>
                         <tr>
-                        <td style="text-align:left">
-                        <strong>From</strong> <br />
-                        Name : Izzad<br />
-                        Company : PayMe Sdn Bhd<br />
-                        Address : Universiti Teknologi PETRONAS,<br />32610 Seri Iskandar,<br />Perak Darul Ridzuan, Malaysia 
-                        </td>
-                        <td style="text-align:left">
-                        <strong>To</strong> <br />
-                        Name : Izzad<br />
-                        Company : PayMe Sdn Bhd<br />
-                        Address : Universiti Teknologi PETRONAS,<br />32610 Seri Iskandar,<br />Perak Darul Ridzuan, Malaysia 
-                        </td>
+                            <td style="text-align:left; width:50%" colspan="2">
+                                <strong>From</strong> <br />
+                                Name : Izzad<br />
+                                Company : PayMe Sdn Bhd<br />
+                                Address : Universiti Teknologi PETRONAS,<br />32610 Seri Iskandar,<br />Perak Darul Ridzuan, Malaysia 
+                            </td>
+                            <td style="text-align:left; width:50%" colspan="2">
+                                <strong>To</strong> <br />
+                                Name : Izzad<br />
+                                Company : PayMe Sdn Bhd<br />
+                                Address : Universiti Teknologi PETRONAS,<br />32610 Seri Iskandar,<br />Perak Darul Ridzuan, Malaysia 
+                            </td>
                         </tr>
                     </table>
                 </td>
