@@ -23,11 +23,17 @@ session_start();
                             </td>
                         </tr>
                         <tr>
-                        <td>
-                        From
+                        <td style="text-align:left">
+                        <strong>From</strong> <br />
+                        Name : Izzad<br />
+                        Company : PayMe Sdn Bhd<br />
+                        Address : Universiti Teknologi PETRONAS,<br />32610 Seri Iskandar,<br />Perak Darul Ridzuan, Malaysia 
                         </td>
-                        <td>
-                        To
+                        <td style="text-align:left">
+                        <strong>To</strong> <br />
+                        Name : Izzad<br />
+                        Company : PayMe Sdn Bhd<br />
+                        Address : Universiti Teknologi PETRONAS,<br />32610 Seri Iskandar,<br />Perak Darul Ridzuan, Malaysia 
                         </td>
                         </tr>
                     </table>
